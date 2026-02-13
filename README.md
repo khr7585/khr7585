@@ -8,6 +8,24 @@ Backend-focused developer working with Node.js and REST APIs.
 Building features such as authentication, file uploads, email services, and third-party integrations.  
 Currently working on real-world backend projects and open to internship opportunities.
 
+## Featured Projects
+
+### Ekart — Full Stack E-commerce Application
+Single-vendor e-commerce application built with Node.js, Express, MongoDB, and React.  
+Implements authentication, role-based access control, payment integration using Razorpay, and order lifecycle management with server-side validation.
+
+Live: https://ekart-frontend.pages.dev  
+Frontend: https://github.com/sn0914r/ekart-frontend  
+Backend: https://github.com/sn0914r/ekart-backend
+
+
+### TrafficPulse Analytics — Business Landing Website
+Responsive multi-page business landing website built using HTML, CSS, JavaScript, and Bootstrap.  
+Includes scroll-based animations, dynamic service sections, and optimized layout for mobile and desktop devices.
+
+Live: https://trafficpulse-landing-page.pages.dev  
+Repository: https://github.com/sn0914r/trafficpulse-landing-page
+
 ## My Skills
 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" title="HTML"> 
@@ -55,3 +73,4 @@ Currently working on real-world backend projects and open to internship opportun
   <a href="https://www.linkedin.com/in/sivananda-reddy-yerragudi-630076337" target="_blank">LinkedIn</a> ·
   <a href="mailto:reddysivananda83@gmail.com">Email</a>
 </p>
+
