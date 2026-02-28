@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi, I'm Hemanth Reddy, a HTML developer from India, currently learning CSS.
+Hi, I'm Hemanth Reddy, a frontend developer from India.
 
 ## My Skills
 
