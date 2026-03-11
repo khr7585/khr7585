@@ -28,6 +28,7 @@ Repository: https://github.com/sn0914r/trafficpulse-landing-page
 
 ## My Skills
 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" title="Python">
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" title="HTML"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff" title="CSS"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" title="JavaScript"> 
@@ -75,5 +76,6 @@ Repository: https://github.com/sn0914r/trafficpulse-landing-page
   <a href="https://cdn.jsdelivr.net/gh/coach500/resume@main/sn0914r.pdf" target="_blank">Resume</a> · 
   <a href="https://sivananda.is-a.dev/" target="_blank">Portfolio Site</a>
 </p>
+
 
 
