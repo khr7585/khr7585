@@ -40,6 +40,7 @@ Repository: https://github.com/sn0914r/trafficpulse-landing-page
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" title="Mongo DB"> 
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" title="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" title="GitHub">
+<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white" title="Digital ocean">
 
 ## GitHub Stats
 
