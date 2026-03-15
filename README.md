@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-image" alt="Header Image">
+  <img src="github-image.png" alt="Header Image">
 </p>
 
 ## About Me
