@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="height:0px ;width:100%"  src="profile.png" alt="Header Image">
+  <img style="height:420px ;width:100%"  src="profile.png" alt="Header Image">
 </p>
 
 ## About Me
