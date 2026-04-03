@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:1280px ; height:320px"  src="github-image.png" alt="Header Image">
+  <img style="height:0px ;width:100%"  src="profile.png" alt="Header Image">
 </p>
 
 ## About Me
