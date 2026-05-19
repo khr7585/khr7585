@@ -4,43 +4,24 @@
 
 ## About Me
 
-Backend-focused developer working with Node.js and REST APIs.  
-Building features such as authentication, file uploads, email services, and third-party integrations.  
-Currently working on real-world backend projects and open to internship opportunities.
+Backend-focused full stack developer building secure web applications, REST APIs, authentication systems, payment workflows, and AI-powered backend platforms using Node.js, Express.js, React.js, MongoDB, and PostgreSQL.
 
-## Featured Projects
-
-### Ekart — Full Stack E-commerce Application
-Single-vendor e-commerce application built with Node.js, Express, MongoDB, and React.  
-Implements authentication, role-based access control, payment integration using Razorpay, and order lifecycle management with server-side validation.
-
-Live: https://ekart-frontend.pages.dev  
-Frontend: https://github.com/sn0914r/ekart-frontend  
-Backend: https://github.com/sn0914r/ekart-backend
-
-
-### TrafficPulse Analytics — Business Landing Website
-Responsive multi-page business landing website built using HTML, CSS, JavaScript, and Bootstrap.  
-Includes scroll-based animations, dynamic service sections, and optimized layout for mobile and desktop devices.
-
-Live: https://trafficpulse-landing-page.pages.dev  
-Repository: https://github.com/sn0914r/trafficpulse-landing-page
+Focused on backend architecture, real-world workflow handling, dynamic API systems, and maintainable full stack applications.
 
 ## My Skills
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" title="JavaScript"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" title="TypeScript">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" title="Python">
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" title="HTML"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff" title="CSS"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" title="JavaScript"> 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" title="Bootstrap"> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" title="React"> 
-<img src="https://img.shields.io/badge/Firebase-FFA000?logo=firebase&logoColor=white" title="Firebase"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" title="React">
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" title="Node.js"> 
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" title="Express"> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" title="Mongo DB"> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" title="PostgreSQL">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" title="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" title="GitHub">
-<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white" title="Digital ocean">
+<img src="https://img.shields.io/badge/Firebase-FFA000?logo=firebase&logoColor=white" title="Firebase"> 
 
 ## GitHub Stats
 
