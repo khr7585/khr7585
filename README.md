@@ -55,7 +55,7 @@ Focused on backend architecture, real-world workflow handling, dynamic API syste
 <p align="center">
   <a href="https://www.linkedin.com/in/sivananda-reddy-yerragudi-630076337" target="_blank">LinkedIn</a> ·
   <a href="mailto:reddysivananda83@gmail.com" target="_blank">Email</a> · 
-  <a href="https://cdn.jsdelivr.net/gh/coach500/resume@main/sn0914r.pdf" target="_blank">Resume</a> · 
+  <a href="https://resume-sable-eta-54.vercel.app/sivananda-reddy-resume.pdf" target="_blank">Resume</a> · 
   <a href="https://sivananda.is-a.dev/" target="_blank">Portfolio Site</a>
 </p>
 
